@@ -4,7 +4,7 @@
 
 -------
 
-I'm a computer science student form kasetsart university
+I'm a computer science student form Kasetsart university
 
 * ✉️ Contact me at [paritipat@outlook.com](mailto:paritipat@outlook.com)
 
